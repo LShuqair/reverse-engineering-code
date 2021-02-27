@@ -5,7 +5,7 @@
 
 ## LINK TO THE REPOSITORY
 
--  [reverse-engineering-code](https://github.com/LShuqair/burger)
+-  [reverse-engineering-code](https://github.com/LShuqair/reverse-engineering-code)
 
 
 ## LINK TO GOOGLE DOCS
